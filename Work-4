@@ -1,0 +1,7 @@
+import math
+
+radius = 1737.4 # радиус Луны в километрах
+
+area = math.pi * radius**2
+
+print(f'Площадь Луны: {area} квадратных километров')
